@@ -10,6 +10,11 @@ Pareto ([pareto.credit](https://pareto.credit)) is building a marketplace that c
 - **Scalable Yield Opportunities** – Enables institutional investors to participate in private credit markets with lower friction.
 - **Synthetic Dollar (USP)** – A stablecoin backed by real-world private credit, providing a secure and regulated entry point into RWA (Real-World Assets) markets.
 
+## Live Project
+
+You can view the deployed version of the project here:  
+🔗 **[Live Demo – FalconEdge](https://falconedge2.onrender.com/)**
+
 ## Why Pareto Matters
 
 Traditional private credit markets are often opaque, slow, and manual. Pareto bridges traditional finance and decentralized finance (DeFi) by providing an automated, transparent, and scalable platform for credit issuance and investment.
