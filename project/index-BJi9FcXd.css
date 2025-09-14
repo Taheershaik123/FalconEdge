@@ -61,13 +61,13 @@ html {
 
 @font-face {
     font-family: GT-America-Mono-Regular;
-    src: url(/assets/fonts/GT-America-Mono-Regular-B99Lq1Et.woff2) format("woff2");
+    src: url(https://pareto.credit/assets/fonts/GT-America-Mono-Regular-B99Lq1Et.woff2) format("woff2");
     font-weight: 400
 }
 
 @font-face {
     font-family: GT-Sectra-Fine-Regular;
-    src: url(/assets/fonts/GT-Sectra-Fine-Regular-DFBfX9Z1.woff2) format("woff2");
+    src: url((https://pareto.credit/assets/fonts/GT-Sectra-Fine-Regular-DFBfX9Z1.woff2) format("woff2");
     font-weight: 500
 }
 
@@ -1438,3 +1438,4 @@ html {
         animation: none!important
     }
 }
+
